@@ -1,0 +1,2 @@
+C:\Users\YY103\source\repos\NODEJS-INTRO\obj\Debug\NODEJS-INTRO.esproj.SuggestedBindingRedirects.cache
+C:\Users\YY103\source\repos\NODEJS-INTRO\obj\Debug\NODEJS-INTRO.esproj.CoreCompileInputs.cache
